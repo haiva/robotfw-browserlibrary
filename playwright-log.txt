@@ -1,0 +1,131 @@
+{"level":30,"time":"2025-11-28T08:13:52.200Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Listening on 127.0.0.1:54847"}
+{"level":30,"time":"2025-11-28T08:13:52.296Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2025-11-28T08:13:52.575Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Adding browser to stack: chromium, version: 141.0.7390.37"}
+{"level":30,"time":"2025-11-28T08:13:52.575Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Adding 0 contexts to browser"}
+{"level":30,"time":"2025-11-28T08:13:52.575Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"End of node method newBrowser"}
+{"level":30,"time":"2025-11-28T08:13:52.579Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-11-28T08:13:52.579Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-11-28T08:13:52.582Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Start of node method newPage"}
+{"level":30,"time":"2025-11-28T08:13:52.582Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"currentBrowser: {\"name\":\"chromium\",\"browser\":{\"_type\":\"Browser\",\"_guid\":\"browser@9d4fc9ac740da4d9ec7dc8825f9d0e38\"},\"headless\":false,\"_contextStack\":[],\"id\":\"browser=8b57f246-8c54-4ce7-bb52-0acea8a84257\"}"}
+{"level":30,"time":"2025-11-28T08:13:52.592Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Setting default timeout for context context=b8495c4a-d8c2-4455-8581-8f08f5442d68 to 10000"}
+{"level":30,"time":"2025-11-28T08:13:52.592Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Changed active context: context=b8495c4a-d8c2-4455-8581-8f08f5442d68"}
+{"level":30,"time":"2025-11-28T08:13:52.760Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Video path: undefined"}
+{"level":30,"time":"2025-11-28T08:13:52.761Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Changed active page"}
+{"level":30,"time":"2025-11-28T08:13:54.327Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"End of node method newPage"}
+{"level":30,"time":"2025-11-28T08:13:54.332Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Start of node method typeText"}
+{"level":30,"time":"2025-11-28T08:13:54.333Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Strict mode is enabled, find Locator with id=user-name in page."}
+{"level":30,"time":"2025-11-28T08:13:54.398Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"End of node method typeText"}
+{"level":30,"time":"2025-11-28T08:13:54.401Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Start of node method typeText"}
+{"level":30,"time":"2025-11-28T08:13:54.401Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Strict mode is enabled, find Locator with id=password in page."}
+{"level":30,"time":"2025-11-28T08:13:54.427Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"End of node method typeText"}
+{"level":30,"time":"2025-11-28T08:13:54.430Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Start of node method click"}
+{"level":30,"time":"2025-11-28T08:13:54.430Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Strict mode is enabled, find Locator with id=login-button in page."}
+{"level":30,"time":"2025-11-28T08:13:54.498Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"End of node method click"}
+{"level":30,"time":"2025-11-28T08:13:54.502Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Start of node method getText"}
+{"level":30,"time":"2025-11-28T08:13:54.502Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Strict mode is enabled, find Locator with .title in page."}
+{"level":30,"time":"2025-11-28T08:13:54.526Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Retrieved text for element .title containing Products"}
+{"level":30,"time":"2025-11-28T08:13:54.526Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"End of node method getText"}
+{"level":30,"time":"2025-11-28T08:13:54.529Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Start of node method click"}
+{"level":30,"time":"2025-11-28T08:13:54.529Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Strict mode is enabled, find Locator with id=add-to-cart-sauce-labs-backpack in page."}
+{"level":30,"time":"2025-11-28T08:13:54.571Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"End of node method click"}
+{"level":30,"time":"2025-11-28T08:13:54.573Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Start of node method click"}
+{"level":30,"time":"2025-11-28T08:13:54.573Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Strict mode is enabled, find Locator with id=add-to-cart-sauce-labs-bike-light in page."}
+{"level":30,"time":"2025-11-28T08:13:54.609Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"End of node method click"}
+{"level":30,"time":"2025-11-28T08:13:54.611Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Start of node method getText"}
+{"level":30,"time":"2025-11-28T08:13:54.611Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Strict mode is enabled, find Locator with .shopping_cart_badge in page."}
+{"level":30,"time":"2025-11-28T08:13:54.621Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Retrieved text for element .shopping_cart_badge containing 2"}
+{"level":30,"time":"2025-11-28T08:13:54.621Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"End of node method getText"}
+{"level":30,"time":"2025-11-28T08:13:54.624Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Start of node method click"}
+{"level":30,"time":"2025-11-28T08:13:54.624Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Strict mode is enabled, find Locator with .shopping_cart_link in page."}
+{"level":30,"time":"2025-11-28T08:13:54.658Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"End of node method click"}
+{"level":30,"time":"2025-11-28T08:13:54.660Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Start of node method click"}
+{"level":30,"time":"2025-11-28T08:13:54.660Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Strict mode is enabled, find Locator with id=checkout in page."}
+{"level":30,"time":"2025-11-28T08:13:54.707Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"End of node method click"}
+{"level":30,"time":"2025-11-28T08:13:54.709Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Start of node method typeText"}
+{"level":30,"time":"2025-11-28T08:13:54.709Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Strict mode is enabled, find Locator with id=first-name in page."}
+{"level":30,"time":"2025-11-28T08:13:54.734Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"End of node method typeText"}
+{"level":30,"time":"2025-11-28T08:13:54.736Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Start of node method typeText"}
+{"level":30,"time":"2025-11-28T08:13:54.736Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Strict mode is enabled, find Locator with id=last-name in page."}
+{"level":30,"time":"2025-11-28T08:13:54.755Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"End of node method typeText"}
+{"level":30,"time":"2025-11-28T08:13:54.757Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Start of node method typeText"}
+{"level":30,"time":"2025-11-28T08:13:54.757Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Strict mode is enabled, find Locator with id=postal-code in page."}
+{"level":30,"time":"2025-11-28T08:13:54.790Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"End of node method typeText"}
+{"level":30,"time":"2025-11-28T08:13:54.792Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Start of node method click"}
+{"level":30,"time":"2025-11-28T08:13:54.792Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Strict mode is enabled, find Locator with id=continue in page."}
+{"level":30,"time":"2025-11-28T08:13:54.827Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"End of node method click"}
+{"level":30,"time":"2025-11-28T08:13:54.830Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Start of node method click"}
+{"level":30,"time":"2025-11-28T08:13:54.830Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Strict mode is enabled, find Locator with id=finish in page."}
+{"level":30,"time":"2025-11-28T08:13:54.876Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"End of node method click"}
+{"level":30,"time":"2025-11-28T08:13:54.878Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Start of node method getText"}
+{"level":30,"time":"2025-11-28T08:13:54.878Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Strict mode is enabled, find Locator with h2.complete-header in page."}
+{"level":30,"time":"2025-11-28T08:13:54.888Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Retrieved text for element h2.complete-header containing Thank you for your order!"}
+{"level":30,"time":"2025-11-28T08:13:54.888Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"End of node method getText"}
+{"level":30,"time":"2025-11-28T08:13:54.891Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-11-28T08:13:54.892Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-11-28T08:13:54.893Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-11-28T08:13:54.894Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-11-28T08:13:54.894Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-11-28T08:13:54.896Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-11-28T08:13:54.898Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-11-28T08:13:54.900Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-11-28T08:13:54.902Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Changed active context: context=b8495c4a-d8c2-4455-8581-8f08f5442d68"}
+{"level":30,"time":"2025-11-28T08:13:54.902Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Changing current active page: page=5abc5199-38ec-478a-bec5-4b114634e808"}
+{"level":30,"time":"2025-11-28T08:13:54.902Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Changed active page"}
+{"level":30,"time":"2025-11-28T08:13:54.904Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Start of node method closeContext"}
+{"level":30,"time":"2025-11-28T08:13:54.910Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Removed page=00507947-acc9-4b22-b382-e5cabf1485f8 from context=b8495c4a-d8c2-4455-8581-8f08f5442d68 page stack"}
+{"level":30,"time":"2025-11-28T08:13:54.937Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"End of node method closeContext"}
+{"level":30,"time":"2025-11-28T08:13:54.941Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-11-28T08:13:54.941Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-11-28T08:13:54.945Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Start of node method newPage"}
+{"level":30,"time":"2025-11-28T08:13:54.945Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"currentBrowser: {\"name\":\"chromium\",\"browser\":{\"_type\":\"Browser\",\"_guid\":\"browser@9d4fc9ac740da4d9ec7dc8825f9d0e38\"},\"headless\":false,\"_contextStack\":[],\"id\":\"browser=8b57f246-8c54-4ce7-bb52-0acea8a84257\"}"}
+{"level":30,"time":"2025-11-28T08:13:54.954Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Setting default timeout for context context=6e565449-a1f4-405c-8f38-acd450a9a4c8 to 10000"}
+{"level":30,"time":"2025-11-28T08:13:54.954Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Changed active context: context=6e565449-a1f4-405c-8f38-acd450a9a4c8"}
+{"level":30,"time":"2025-11-28T08:13:55.068Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Video path: undefined"}
+{"level":30,"time":"2025-11-28T08:13:55.069Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Changed active page"}
+{"level":30,"time":"2025-11-28T08:13:56.210Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"End of node method newPage"}
+{"level":30,"time":"2025-11-28T08:13:56.213Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Start of node method typeText"}
+{"level":30,"time":"2025-11-28T08:13:56.214Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Strict mode is enabled, find Locator with id=user-name in page."}
+{"level":30,"time":"2025-11-28T08:13:56.268Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"End of node method typeText"}
+{"level":30,"time":"2025-11-28T08:13:56.271Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Start of node method typeText"}
+{"level":30,"time":"2025-11-28T08:13:56.271Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Strict mode is enabled, find Locator with id=password in page."}
+{"level":30,"time":"2025-11-28T08:13:56.291Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"End of node method typeText"}
+{"level":30,"time":"2025-11-28T08:13:56.293Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Strict mode is enabled, find Locator with id=login-button in page."}
+{"level":30,"time":"2025-11-28T08:13:56.293Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Start of node method click"}
+{"level":30,"time":"2025-11-28T08:13:56.335Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"End of node method click"}
+{"level":30,"time":"2025-11-28T08:13:56.337Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Start of node method getText"}
+{"level":30,"time":"2025-11-28T08:13:56.337Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Strict mode is enabled, find Locator with h3[data-test=\"error\"] in page."}
+{"level":30,"time":"2025-11-28T08:13:56.355Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Retrieved text for element h3[data-test=\"error\"] containing Epic sadface: Sorry, this user has been locked out."}
+{"level":30,"time":"2025-11-28T08:13:56.356Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"End of node method getText"}
+{"level":30,"time":"2025-11-28T08:13:56.358Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-11-28T08:13:56.359Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-11-28T08:13:56.360Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-11-28T08:13:56.361Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-11-28T08:13:56.362Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-11-28T08:13:56.362Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-11-28T08:13:56.363Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-11-28T08:13:56.364Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-11-28T08:13:56.364Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Changed active context: context=6e565449-a1f4-405c-8f38-acd450a9a4c8"}
+{"level":30,"time":"2025-11-28T08:13:56.364Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Changing current active page: page=11683015-f3d8-4055-8d21-b47cb8d327f9"}
+{"level":30,"time":"2025-11-28T08:13:56.364Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Changed active page"}
+{"level":30,"time":"2025-11-28T08:13:56.368Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Start of node method closeContext"}
+{"level":30,"time":"2025-11-28T08:13:56.373Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Removed page=bd7f8797-eea0-450c-ba29-52084f9158ef from context=6e565449-a1f4-405c-8f38-acd450a9a4c8 page stack"}
+{"level":30,"time":"2025-11-28T08:13:56.395Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"End of node method closeContext"}
+{"level":30,"time":"2025-11-28T08:13:56.399Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Start of node method closeBrowser"}
+{"level":30,"time":"2025-11-28T08:13:57.384Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"End of node method closeBrowser"}
+================= Original suppressed error =================
+Error: Browser has been closed.
+    at PlaywrightState.getActiveBrowser (C:\Users\Markku.Hautamaki\AppData\Roaming\Python\Python314\site-packages\Browser\wrapper\index.js:12672:15)
+    at PlaywrightServer.getActiveBrowser (C:\Users\Markku.Hautamaki\AppData\Roaming\Python\Python314\site-packages\Browser\wrapper\index.js:13622:59)
+    at PlaywrightServer.setTimeout (C:\Users\Markku.Hautamaki\AppData\Roaming\Python\Python314\site-packages\Browser\wrapper\index.js:13873:57)
+    at Object.onReceiveHalfClose (C:\Users\Markku.Hautamaki\AppData\Roaming\Python\Python314\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server.js:1464:25)
+    at BaseServerInterceptingCall.maybePushNextMessage (C:\Users\Markku.Hautamaki\AppData\Roaming\Python\Python314\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-interceptors.js:595:31)
+    at BaseServerInterceptingCall.handleEndEvent (C:\Users\Markku.Hautamaki\AppData\Roaming\Python\Python314\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-interceptors.js:635:14)
+    at ServerHttp2Stream.<anonymous> (C:\Users\Markku.Hautamaki\AppData\Roaming\Python\Python314\site-packages\Browser\wrapper\node_modules\@grpc\grpc-js\build\src\server-interceptors.js:394:18)
+    at ServerHttp2Stream.emit (node:events:520:35)
+    at endReadableNT (node:internal/streams/readable:1701:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+=============================================================
+{"level":30,"time":"2025-11-28T08:13:57.388Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2025-11-28T08:13:57.388Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2025-11-28T08:13:57.448Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2025-11-28T08:13:57.448Z","pid":17312,"hostname":"VUOKSI-LT-303","msg":"End of node method closeAllBrowsers"}
