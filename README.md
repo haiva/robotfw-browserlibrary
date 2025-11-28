@@ -1,4 +1,4 @@
-Modifying and testing the tests locally with Robot Framework:
+Modifying and testing the tests locally with Robot Framework and Browser Library:
 * Install Robot Framework using 'pip install robotframework'
 * Install Browser Library using 'pip install robotframework-browser'
 * Initialize the Browser library using 'rfbrowser init'
